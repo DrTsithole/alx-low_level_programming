@@ -1,12 +1,13 @@
 #include "main.h"
 
 /**
- *print_alphabet_v10 - prints alphabet 10 time
+ *print_alphabet_X10 - prints alphabet 10 time
  *Return:void
  */
 
-int void print_alphabet_x10(void)
+void print_alphabet_X10(void)
 {
+
 	char c;
 	int i = 0;
 
