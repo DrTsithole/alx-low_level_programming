@@ -2,12 +2,11 @@
 
 /**
  *print_alphabet_X10 - prints alphabet 10 time
- *Return:void
+ *Return: void
  */
 
 void print_alphabet_X10(void)
 {
-
 	char c;
 	int i = 0;
 
