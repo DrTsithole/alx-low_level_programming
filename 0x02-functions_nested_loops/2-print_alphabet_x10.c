@@ -2,7 +2,7 @@
 
 /**
  *print_alphabet_v10 - prints alphabet 10 time
- *Return:void
+ *Return:0
  */
 
 void print_alphabet_x10(void)
